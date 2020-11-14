@@ -3,3 +3,4 @@ Analysis of municipal waste rate by countries. In this project, I analyze the mu
 
 Also, there data anout GDP of a country, and for some of them I use web-scrapping to fill missing data.
 
+Because of using plotly.express library some of the graph are hidden (to see them try to download).
